@@ -75,5 +75,11 @@ body{
     margin: 20px;
 }
 
+.main-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 
